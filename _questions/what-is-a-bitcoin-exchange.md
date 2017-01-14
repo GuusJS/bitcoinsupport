@@ -31,6 +31,7 @@ You may see how a very large buy order will buy so many bitcoins at increasing p
 
 Now you have a certain amount of bitcoins in your trading account. If you want to store the bitcoins somewhere securely, you need to transfer them to a wallet. For more info, please refer to [How should I store my bitcoins](http://www.decentral.support/questions/how-should-i-store-my-bitcoins/).
 
+test aanpassing
 
 ## What now?
 
